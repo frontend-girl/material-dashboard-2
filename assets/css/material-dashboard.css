@@ -3806,7 +3806,7 @@ textarea.form-control-lg {
 .card-header {
   padding: 0.5rem 1rem;
   margin-bottom: 0;
-  background-color: #fff;
+  background-color:white;
   border-bottom: 0 solid rgba(0, 0, 0, 0.125); }
   .card-header:first-child {
     border-radius: 0.75rem 0.75rem 0 0; }
@@ -17532,3 +17532,11 @@ pre[class*="language-"] {
     overflow: auto !important; } }
 
 /*# sourceMappingURL=material-dashboard.css.map */
+
+.image-fluid
+{height:auto;
+width:7%;
+margin:auto;}
+
+.button-success
+{color:#0077B5;}
